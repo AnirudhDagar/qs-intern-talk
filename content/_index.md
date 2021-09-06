@@ -160,7 +160,7 @@ with scipy.ndimage.set_backend('cupy'):
 
 ---
 
-# SciPy with CuPy Arrays: uarray Demo
+# uarray Demo: SciPy with CuPy Arrays
 
 ---
 
