@@ -146,7 +146,7 @@ There are other scipy modules that will benefit from `uarray` backend, and later
 
 ---
 
-SciPy PR: https://github.com/scipy/scipy/pull/14356
+SciPy uarray ndimage PR: https://github.com/scipy/scipy/pull/14356
 
 ```python{1-3|5|5-7}
 # SciPy ndimage with CuPy array
