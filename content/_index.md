@@ -37,10 +37,10 @@ Anirudh Dagar
 # Array Consumers
 
 {{% fragment %}} SciPy {{% /fragment %}}
-{{% fragment %}} Scikit-Learn {{% /fragment %}}
-{{% fragment %}} Scikit-Image {{% /fragment %}}
+{{% fragment %}} scikit-learn {{% /fragment %}}
+{{% fragment %}} scikit-image {{% /fragment %}}
 {{% fragment %}} AstroPy {{% /fragment %}}
-{{% fragment %}} EinOps etc. {{% /fragment %}}
+{{% fragment %}} einops etc. {{% /fragment %}}
 
 {{< /g >}}
 
@@ -101,7 +101,7 @@ The APIs of each of these libraries are largely similar, but with enough differe
 
 ---
 
-# SciPy with PyTorch Tensors Demo
+# Array API Demo: SciPy with PyTorch Tensors
 
 ---
 
