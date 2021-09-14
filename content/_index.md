@@ -109,9 +109,11 @@ The APIs of each of these libraries are largely similar, but with enough differe
 
 Improve Array API Compliance in PyTorch
 
-- {{< frag c="torch.concat (PR #62560)" >}}
-- {{< frag c="torch.linalg.cross (PR #63285)" >}}
-- {{< frag c="torch.linalg.matmul (PR #63227)" >}}
+<ul>
+  <li class="fragment"><a href="https://github.com/pytorch/pytorch/pull/62560">torch.concat (PR #62560)</a></li>
+  <li class="fragment"><a href="https://github.com/pytorch/pytorch/pull/63285">torch.linalg.cross (PR #63285)</a></li>
+  <li class="fragment"><a href="https://github.com/pytorch/pytorch/pull/63227">torch.linalg.matmul (PR #63227)</a></li>
+</ul>
 
 ---
 
